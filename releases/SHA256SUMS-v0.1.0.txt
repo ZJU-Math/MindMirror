@@ -1,0 +1,2 @@
+38afcd13c8b2ff8a39c47d3ea3edae63caf3c136eac01087c38feb2f9de1efd2  MindMirror-0.1.0-mac-arm64.pkg
+798025b946e8ecad74bc26a7dee19fec0c50d76c1856af4371abcae81a73796d  MindMirror-0.1.0-win-x64.exe
