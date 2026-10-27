@@ -8,8 +8,8 @@ MindMirror 是一款面部行为观察软件，支持视频与图片分析、摄
 
 | 系统 | 下载 | 大小 |
 |---|---|---|
-| Windows 10 · 64 位 | [下载 Windows 版](https://github.com/ZJU-Math/MindMirror/releases/download/v0.1.0/MindMirror-0.1.0-win-x64.exe) | 约 1.29 GB |
-| macOS 14 及以上 · M 系列芯片 | [下载 Mac 版](https://github.com/ZJU-Math/MindMirror/releases/download/v0.1.0/MindMirror-0.1.0-mac-arm64.pkg) | 约 1.48 GB |
+| Windows 10 及以上 · 64 位 | [下载 Windows 版](https://github.com/ZJU-Math/MindMirror/releases/download/v0.1.0/MindMirror-0.1.0-win-x64.exe) | 1.29GB |
+| macOS 14 及以上 · M 系列芯片 | [下载 Mac 版](https://github.com/ZJU-Math/MindMirror/releases/download/v0.1.0/MindMirror-0.1.0-mac-arm64.pkg) | 1.48GB |
 
 Mac 版适用于 Apple Silicon（M 系列）电脑，暂不提供 Intel 版本。云盘备用下载准备中。
 
